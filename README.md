@@ -2,6 +2,8 @@
 
 Основан на схеме из статьи [«ШИМ регулятор на таймере NE555»](http://easyelectronics.ru/shim-regulyator-na-tajmere-ne555.html).
 
+Схема спроектирована в САПР KiCAD.
+
 Компоненты:
 
 - Таймер NE555 в корпусе SOIC-8.
